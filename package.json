@@ -1,0 +1,24 @@
+{
+  "name": "mmm-torque",
+  "version": "1.0.0",
+  "description": "MMM-Torque is an image slideshow module for MagicMirror²",
+  "main": "MMM-Torque.js",
+  "keywords": ["MagicMirror²", "module"],
+  "author": "Jesse (jbnimble)",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint",
+    "lint:fix": "eslint --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jbnimble/MMM-Torque.git"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.27.0",
+    "@stylistic/eslint-plugin": "^4.2.0",
+    "eslint": "^9.27.0",
+    "globals": "^16.1.0"
+  }
+}
